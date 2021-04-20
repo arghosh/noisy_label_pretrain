@@ -18,7 +18,7 @@ higher==0.2.1
 ```
 
 ## Training
-You can download the pre-trained models from [Onedrie](https://umass-my.sharepoint.com/:u:/g/personal/arighosh_umass_edu/EQ3vh_THjDlLtZyXw_bZ3cYB07-n2dekhdMO3VZzy_vmNg?e=aMCvnG).
+You can download the pre-trained models from [Onedrive](https://umass-my.sharepoint.com/:u:/g/personal/arighosh_umass_edu/EQ3vh_THjDlLtZyXw_bZ3cYB07-n2dekhdMO3VZzy_vmNg?e=aMCvnG).
 
 The `pretrained.zip` file contains three SimCLR pre-trained models for CIFAR-10, CIFAR-100, and Clothing1M dataset. These models are trained using this excellent [Pytorch implementation for SimCLR](https://github.com/AndrewAtanov/simclr-pytorch). The `pretrained.zip` file also contains the configs for training those models. Note, input to the SimCLR model were not normalized
 
