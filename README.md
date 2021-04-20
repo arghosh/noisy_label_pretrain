@@ -51,7 +51,6 @@ There are a couple of differences with the official implementation; however, you
 ## [Generalized Cross-entropy loss](https://arxiv.org/abs/1805.07836) implementation
 I do not use the truncated version of the generalized cross-entropy loss. Instead, the generalized cross-entropy loss is applied directly; and they perform remarkably well with the right initializer (otherwise, not so much!). 
 
-## Training
 
 ## Attribution
 Parts of this code are based on the following repositories:
