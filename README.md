@@ -56,7 +56,7 @@ I do not use the truncated version of the generalized cross-entropy loss. Instea
 Parts of this code are based on the following repositories:
 - [SimCLR PyTorch](https://github.com/AndrewAtanov/simclr-pytorch), [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) for standard backbones, training loops, and SimCLR model training.
 - [Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting (Official Pytorch implementation for noisy labels](https://github.com/xjtushujun/meta-weight-net) for the original implementation of MetaWeight Network.
-- [Higher Package](https://github.com/facebookresearch/higher) for simplifying the Metaweight network implementation. 
+- [Higher Package](https://github.com/facebookresearch/higher) is used to simplify the Metaweight network implementation. 
 
 
 
